@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FabricsApp](www.fabricsapp.store)
 
-- 📫 How to reach me **georgi.mihov.06@gmail.com**
+- 📫 How to reach me ***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
